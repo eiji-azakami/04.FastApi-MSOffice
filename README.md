@@ -32,8 +32,8 @@ uvicorn app.main:app --reload --no-access-log
 
 # Note
  
-業務システムでは、よくExcel出力やWord出力のご要望をいただきます。
-Pythonでの本当に簡単なものですが、出力サンプルです。
+業務システムでは、よくExcel出力やWord出力のご要望をいただきます。<br>
+Pythonでの本当に簡単なものですが、出力サンプルです。<br>
 AIに作ってもらったので、３時間ほどで完成しました。
 
 # Author
